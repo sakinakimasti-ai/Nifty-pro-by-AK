@@ -1,0 +1,6 @@
+{
+  "name": "NIFTY 50 Option Selling Pro",
+  "description": "AI-powered institutional options analytics, live NIFTY 50 option chain, CE/PE selling scanner, Greeks, Max Pain, and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
